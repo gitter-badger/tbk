@@ -1,6 +1,10 @@
 tbk - Transbank's Webpay protocol
 =================================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/pedroburon/tbk
+   :target: https://gitter.im/pedroburon/tbk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 **Attention: Beta not ready for production**
 
 Python implementation of Transbank's Webpay protocol.
